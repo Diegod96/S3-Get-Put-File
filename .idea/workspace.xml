@@ -1,0 +1,1407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="352a387c-767f-4452-8e9c-91d62fb015b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Artificial-Intelligence/FlappyBird" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Artificial-Intelligence/GAShortestPath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Artificial-Intelligence/SudokuSolver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Build-API/.idea/Build-API.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Build-API/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Build-API/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Build-API/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Build-API/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Build-API/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Build-API/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Build-API/.ipynb_checkpoints/bank-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Build-API/loan_model.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Build-API/loan_model.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Covid-19-US" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-Tracker/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise-Tracker/.idea/Exercise-Tracker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GA-shortest-path/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GA-shortest-path/.idea/GA-shortest-path.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GA-shortest-path/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GA-shortest-path/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GA-shortest-path/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GA-shortest-path/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GA-shortest-path/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GA-shortest-path/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GA-shortest-path/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GA-shortest-path/dj38.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GA-shortest-path/lu980.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GA-shortest-path/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GA-shortest-path/wi29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameOfLifeSimulator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameOfLifeSimulator/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameOfLifeSimulator/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameOfLifeSimulator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameOfLifeSimulator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameOfLifeSimulator/GameOfLifeSimulator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handwashing-App/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handwashing-App/.idea/Handwashing-App.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handwashing-App/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handwashing-App/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Handwashing-App/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Covid19 Social Distancing/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Covid19 Social Distancing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Covid19 Social Distancing/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Covid19 Social Distancing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Covid19 Social Distancing/Java Covid19 Social Distancing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Covid19 Social Distancing/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Covid19 Social Distancing/src/CFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Covid19 Social Distancing/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Covid19 Social Distancing/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/easy-install.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/EGG-INFO/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/EGG-INFO/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/EGG-INFO/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/EGG-INFO/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/EGG-INFO/not-zip-safe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/EGG-INFO/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/build_env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/cli/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/cli/autocompletion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/cli/base_command.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/cli/cmdoptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/cli/main_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/cli/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/cli/status_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/completion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/freeze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/hash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/show.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/uninstall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/locations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/models/candidate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/models/format_control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/models/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/models/link.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/operations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/operations/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/operations/freeze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/operations/prepare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/pep425tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/pyproject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/req/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/req/constructors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/req/req_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/req/req_install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/req/req_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/req/req_tracker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/req/req_uninstall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/resolve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/appdirs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/deprecation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/encoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/filesystem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/glibc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/hashes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/misc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/outdated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/packaging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/setuptools_build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/temp_dir.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/typing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/vcs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/vcs/bazaar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/vcs/git.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/vcs/mercurial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/vcs/subversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/appdirs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/_cmd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/adapter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/caches/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/caches/file_cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/caches/redis_cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/filewrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/heuristics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/serialize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/cachecontrol/wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/certifi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/certifi/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/certifi/cacert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/certifi/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/big5freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/big5prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/chardistribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/charsetgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/charsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/cli/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/cli/chardetect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/codingstatemachine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/cp949prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/enums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/escprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/escsm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/eucjpprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/euckrfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/euckrprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/euctwfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/euctwprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/gb2312freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/gb2312prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/hebrewprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/jisfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/jpcntx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/langbulgarianmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/langcyrillicmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/langgreekmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/langhebrewmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/langhungarianmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/langthaimodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/langturkishmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/latin1prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/mbcharsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/mbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/mbcssm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/sbcharsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/sbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/sjisprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/universaldetector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/utf8prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/colorama/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/colorama/ansi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/colorama/ansitowin32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/colorama/initialise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/colorama/win32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/colorama/winterm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/_backport/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/_backport/misc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/_backport/shutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/_backport/sysconfig.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/_backport/sysconfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/_backport/tarfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/manifest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/metadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/resources.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/t32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/t64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/w32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/w64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/_ihatexml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/_inputstream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/_tokenizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/_trie/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/_trie/_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/_trie/datrie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/_trie/py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/filters/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/filters/alphabeticalattributes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/filters/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/filters/inject_meta_charset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/filters/lint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/filters/optionaltags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/filters/sanitizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/filters/whitespace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/html5parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treeadapters/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treeadapters/genshi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treeadapters/sax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treebuilders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treebuilders/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treebuilders/dom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treebuilders/etree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treebuilders/etree_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treewalkers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treewalkers/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treewalkers/dom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treewalkers/etree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treewalkers/etree_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treewalkers/genshi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/idna/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/idna/codec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/idna/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/idna/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/idna/idnadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/idna/intranges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/idna/package_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/idna/uts46data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/ipaddress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/lockfile/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/lockfile/linklockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/lockfile/mkdirlockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/lockfile/pidlockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/lockfile/sqlitelockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/lockfile/symlinklockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/msgpack/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/msgpack/_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/msgpack/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/msgpack/fallback.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/packaging/__about__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/packaging/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/packaging/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/packaging/_structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/packaging/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/packaging/requirements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/packaging/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/packaging/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pep517/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pep517/_in_process.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pep517/build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pep517/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pep517/colorlog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pep517/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pep517/envbuild.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pep517/wrappers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pkg_resources/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pkg_resources/py31compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/progress/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/progress/bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/progress/counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/progress/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/progress/spinner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pyparsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pytoml/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pytoml/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pytoml/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pytoml/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pytoml/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pytoml/writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/__version__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/_internal_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/adapters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/certs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/hooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/sessions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/status_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/requests/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/retrying.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/_collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/connectionpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/contrib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/contrib/_appengine_environ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/contrib/appengine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/contrib/ntlmpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/contrib/pyopenssl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/contrib/securetransport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/contrib/socks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/filepost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/packages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/packages/backports/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/packages/backports/makefile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/packages/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/poolmanager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/util/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/util/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/util/queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/util/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/util/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/util/retry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/util/ssl_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/util/timeout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/util/url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/util/wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/webencodings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/webencodings/labels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/webencodings/mklabels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/webencodings/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/webencodings/x_user_defined.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/setuptools-40.8.0-py3.8.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/setuptools.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Scripts/Activate.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Scripts/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Scripts/activate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Scripts/deactivate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Scripts/easy_install-3.8-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Scripts/easy_install-3.8.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Scripts/easy_install-3.8.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Scripts/easy_install-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Scripts/easy_install.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Scripts/easy_install.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Scripts/pip-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Scripts/pip.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Scripts/pip.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Scripts/pip3-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Scripts/pip3.8-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Scripts/pip3.8.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Scripts/pip3.8.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Scripts/pip3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Scripts/pip3.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reddit-AWS/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scraper" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Side Projects/.idea/Side Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/src/main/java/com/diego/SocialNetwork/SocialNetworkApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/src/main/java/com/diego/SocialNetwork/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/src/main/java/com/diego/SocialNetwork/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/src/main/java/com/diego/SocialNetwork/dto/RegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/src/main/java/com/diego/SocialNetwork/exceptions/SpringException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/src/main/java/com/diego/SocialNetwork/model/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/src/main/java/com/diego/SocialNetwork/model/NotificationEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/src/main/java/com/diego/SocialNetwork/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/src/main/java/com/diego/SocialNetwork/model/Subreddit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/src/main/java/com/diego/SocialNetwork/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/src/main/java/com/diego/SocialNetwork/model/VerificationToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/src/main/java/com/diego/SocialNetwork/model/Vote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/src/main/java/com/diego/SocialNetwork/model/VoteType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/src/main/java/com/diego/SocialNetwork/repository/CommentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/src/main/java/com/diego/SocialNetwork/repository/PostRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/src/main/java/com/diego/SocialNetwork/repository/SubredditRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/src/main/java/com/diego/SocialNetwork/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/src/main/java/com/diego/SocialNetwork/repository/VerificationTokenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/src/main/java/com/diego/SocialNetwork/repository/VoteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/src/main/java/com/diego/SocialNetwork/service/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/src/main/java/com/diego/SocialNetwork/service/MailContentBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/src/main/java/com/diego/SocialNetwork/service/MailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialNetwork/src/test/java/com/diego/SocialNetwork/SocialNetworkApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Team-Management-App/Team-Management-App-Backend/src/main/java/com/diego/backend/web/BoatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blob.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/src/action.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/src/forms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Array-Statistics/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Assignment-1/.idea/Assignment-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Assignment-11/.idea/Assignment-11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Assignment-12/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Assignment-12/.idea/Assignment-12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Assignment-12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Assignment-12/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Assignment-12/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Assignment-12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Assignment-12/Assignment - 12.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Assignment-12/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Assignment-12/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Assignment-2/.idea/Assignment-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Assignment-3/.idea/Assignment-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Assignment-4/.idea/Assignment-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Assignment-5/.idea/Assignment-5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Assignment-6/.idea/Assignment-6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Assignment-7/.idea/Assignment-7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Assignment-8/.idea/Assignment-8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/.idea/Php Numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/src/action.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/src/forms1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/Number-Statistics/numbers/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleFour/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleFour/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleFour/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleFour/.idea/phpExampleFour.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleFour/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleFour/connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleFour/forms1_new.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleFour/forms2_new.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleFour/reg_action.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleFour/reg_action_2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/src/actions_1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/src/actions_2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/src/actions_3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/src/forms1_new.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-Apps/phpExampleThree/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/.idea/coronavirus-flask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/bin/activate.fish" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/bin/activate.xsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/bin/pip3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/_virtualenv.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/dateutil/tzwin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/dateutil/zoneinfo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/easy_install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/flask/cli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/jinja2/loaders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/joblib/_memmapping_reducer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/joblib/externals/cloudpickle/cloudpickle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/joblib/numpy_pickle_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/joblib/test/data/joblib_0.11.0_pickle_py36_np111.pkl.xz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/joblib/test/data/joblib_0.9.2_pickle_py27_np16.pkl_04.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/joblib/test/data/joblib_0.9.2_pickle_py34_np19.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/joblib/test/data/joblib_0.9.2_pickle_py34_np19.pkl_01.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/joblib/test/test_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/markupsafe/_speedups.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/numpy/compat/tests/test_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/numpy/core/_dtype.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/numpy/core/_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/numpy/core/_umath_tests.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/numpy/core/defchararray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/numpy/core/generate_numpy_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/numpy/core/include/numpy/halffloat.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/numpy/core/include/numpy/npy_os.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/numpy/core/lib/npy-pkg-config/npymath.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/numpy/core/tests/test_scalar_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/numpy/distutils/__config__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/numpy/distutils/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/numpy/distutils/fcompiler/nag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/numpy/f2py/f2py_testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/numpy/f2py/tests/src/size/foo.f90" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/numpy/f2py/tests/test_kind.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/numpy/fft/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/numpy/lib/tests/test_format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/numpy/ma/extras.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/numpy/ma/tests/test_regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/numpy/polynomial/polynomial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/numpy/random/_common.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas-1.0.3.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/_libs/lib.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/core/arrays/integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/core/arrays/masked.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/core/groupby/groupby.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/core/groupby/grouper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/core/indexes/accessors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/core/ops/dispatch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/core/window/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/io/excel/_xlsxwriter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/io/sas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/plotting/_matplotlib/converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/tests/arrays/test_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/tests/dtypes/test_common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/tests/frame/methods/test_nlargest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/tests/groupby/aggregate/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/tests/groupby/test_grouping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/tests/indexes/interval/test_interval_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/tests/indexes/multi/test_contains.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/tests/indexes/multi/test_integrity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/tests/indexes/period/test_constructors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/tests/indexes/timedeltas/test_astype.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/tests/indexing/multiindex/test_indexing_slow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/tests/indexing/multiindex/test_ix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/tests/indexing/multiindex/test_multiindex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/tests/internals/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/tests/io/formats/test_css.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/tests/io/generate_legacy_storage_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/tests/io/parser/test_common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/tests/io/parser/test_usecols.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/tests/reshape/merge/test_join.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/tests/scalar/period/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/tests/test_downstream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/tests/test_errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/tests/test_sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pandas/tests/tseries/frequencies/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pickle_mixin/test/test_pickle_by_init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip-20.0.2.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip-20.0.2.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip-20.0.2.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/cli/base_command.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/cli/command_context.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/cli/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/cli/main_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/cli/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/cli/req_command.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/commands/download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/commands/show.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/commands/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/distributions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/distributions/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/network/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/network/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/operations/build/wheel_legacy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/operations/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/operations/prepare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/pep425tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/req/constructors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/req/req_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/req/req_tracker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/utils/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/utils/typing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/vcs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/vcs/mercurial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/filewrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/heuristics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/serialize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/chardet/charsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/chardet/codingstatemachine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/chardet/escsm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/chardet/euctwfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/chardet/gb2312prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/chardet/langthaimodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/chardet/latin1prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/chardet/mbcharsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/chardet/mbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/colorama/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/colorama/winterm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/distlib/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/distlib/manifest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/distlib/metadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/distlib/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/distlib/w32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/distro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/_trie/py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/filters/optionaltags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/html5parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/treeadapters/sax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/treewalkers/genshi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/idna/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/idna/idnadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/msgpack/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/packaging/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/pep517/colorlog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/progress/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/progress/spinner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/pytoml/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/requests/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/requests/cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/requests/packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/_collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/contrib/_appengine_environ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/packages/backports/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/util/queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/util/ssl_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/webencodings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pkg_resources/_vendor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pkg_resources/_vendor/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pkg_resources/py31compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/python_dateutil-2.8.1.dist-info/zip-safe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/Africa/Accra" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/Africa/Harare" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/Africa/Luanda" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/Africa/Timbuktu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/America/Bogota" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/America/Chihuahua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/America/Indianapolis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/America/Lower_Princes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/America/Montevideo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/America/Montreal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/America/Rankin_Inlet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/Asia/Almaty" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/Asia/Aqtau" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/Asia/Calcutta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/Asia/Colombo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/Asia/Jerusalem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/Asia/Kuala_Lumpur" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/Asia/Magadan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/Asia/Novokuznetsk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/Asia/Qyzylorda" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/Eire" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/Europe/Monaco" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/Europe/Tiraspol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/Greenwich" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/Japan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/Libya" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/NZ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Honolulu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/Pacific/Port_Moresby" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/Singapore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/pytz/zoneinfo/iso3166.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy-1.4.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/LICENSES_bundled.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/_distributor_init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/_lib/decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/cluster/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/fft/_pocketfft/helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/fftpack/tests/gen_fftw_ref.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/integrate/_ivp/radau.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/interpolate/tests/test_fitpack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/io/arff/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/io/arff/tests/data/quoted_nominal.arff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/io/matlab/mio_utils.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/io/matlab/tests/data/testonechar_4.2c_SOL2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/io/tests/data/array_float32_3d.sav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/io/tests/data/array_float32_4d.sav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/io/tests/data/array_float32_pointer_2d.sav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/io/tests/data/example_3_maskedvals.nc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/io/tests/data/fortran-sf8-1x1x5.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/io/tests/test_fortran.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/linalg/cython_lapack.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/linalg/linalg_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/linalg/tests/data/carex_15_data.npz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/ndimage/_ctest.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/ndimage/tests/test_datatypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/odr/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/optimize.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/optimize/_basinhopping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/optimize/_lsq/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/optimize/_remove_redundancy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/optimize/moduleTNC.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/signal/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/signal/tests/test_spectral.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/signal/windows/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/sparse/csgraph/_laplacian.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/sparse/csgraph/_reordering.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/sparse/csr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/sparse/linalg/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/spatial/tests/data/pdist-chebyshev-ml-iris.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/spatial/tests/data/pdist-cityblock-ml-iris.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/spatial/tests/data/pdist-jaccard-ml.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/spatial/tests/data/random-bool-data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/spatial/tests/data/selfdual-4d-polytope.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/special/_spherical_bessel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/special/tests/test_ellip_harm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/special/tests/test_faddeeva.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/special/tests/test_ndtr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/stats/_binned_statistic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/stats/_stats_mstats_common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/stats/_tukeylambda_stats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/stats/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/scipy/stats/tests/test_continuous_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools-46.1.3.dist-info/zip-safe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/_vendor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/_vendor/packaging/__about__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/_vendor/packaging/requirements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/_vendor/packaging/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/_vendor/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/cli-32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/cli.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/command/bdist_rpm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/command/bdist_wininst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/command/dist_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/command/egg_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/command/install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/command/install_lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/command/launcher manifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/command/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/command/upload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/extension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/lib2to3_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/py27compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/script (dev).tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/windows_support.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/_build_utils/openmp_helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/cluster/_mean_shift.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/cluster/birch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/covariance/tests/test_covariance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/cross_decomposition/cca_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/datasets/_lfw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/datasets/data/breast_cancer.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/datasets/tests/data/openml/40589/data-v1-download-4644182.arff.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/datasets/tests/data/openml/40675/api-v1-json-data-list-data_name-glass2-limit-2-data_version-1.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/datasets/tests/data/openml/40945/api-v1-json-data-features-40945.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/datasets/tests/data/openml/40966/api-v1-json-data-40966.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/datasets/tests/data/openml/561/api-v1-json-data-list-data_name-cpu-limit-2-status-active-.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/decomposition/_factor_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/decomposition/tests/test_online_lda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/externals/_lobpcg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/feature_extraction/_dict_vectorizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/feature_extraction/_hashing_fast.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/feature_selection/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/linear_model/_least_angle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/linear_model/omp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/manifold/tests/test_mds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/metrics/cluster/unsupervised.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/mixture/tests/test_gaussian_mixture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/model_selection/_split.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/neighbors/quad_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/preprocessing/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/tests/test_build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/sklearn/utils/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/werkzeug/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/werkzeug/debug/shared/more.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/werkzeug/debug/shared/ubuntu.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/wheel-0.34.2.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/wheel-0.34.2.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/wheel-0.34.2.virtualenv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/wheel/bdist_wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/wheel/pep425tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/wheel/pkginfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/lib/python3.6/site-packages/wheel/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coronavirus-flask/venv/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../covid-flask/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../covid-flask/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../covid-flask/.idea/covid-flask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../covid-flask/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../covid-flask/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../covid-flask/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../covid-flask/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../covid-flask/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../covid-flask/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../covid-flask/covid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../covid-flask/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../covid-flask/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../covid-flask/templates/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craigslist/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craigslist/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craigslist/.idea/craigslist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craigslist/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craigslist/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craigslist/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craigslist/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craigslist/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craigslist/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craigslist/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craigslist/scraper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craigslist/url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../disease-graph/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../disease-graph/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../disease-graph/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../disease-graph/.idea/disease-graph.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../disease-graph/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../disease-graph/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../disease-graph/graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../disease-graph/routes.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encryption-php/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encryption-php/.idea/encryption-php.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encryption-php/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encryption-php/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encryption-php/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encryption-php/encrypt_data.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encryption-php/forms_2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encryption-php/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encryption-php/intermediate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../encryption-php/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/.idea/portfolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/assets/sass/components/_box.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/assets/sass/libs/_vendor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/images/MatrixTranspose.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/images/Screenshot_2020-04-20 Transfer data.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/images/brian-mcgowan-r2Mf3WFOVZc-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/images/diagonal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/images/john-4eBOPIJliNc-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/images/kushagra-kevat-cc4VWYA1S8U-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/images/markus-spiske-3_SvgDspSTE-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/images/oxana-v-qoAIlAmLJBU-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/images/ramon-salinero-Q8Y4xYdbDQA-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/images/simone-pellegrini-b7xmLsCPW20-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project-board-react/.idea/project-board-react.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectboard/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectboard/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectboard/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectboard/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectboard/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectboard/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projectboard/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reddit-scraper.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/.idea/scraper-python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/apscheduler/executors/gevent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/apscheduler/jobstores/zookeeper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/apscheduler/schedulers/asyncio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/apscheduler/triggers/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/numpy/_globals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/numpy/core/tests/data/umath-validation-set-sin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/numpy/core/tests/test_umath_accuracy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/numpy/distutils/command/build_scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/numpy/distutils/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/numpy/distutils/fcompiler/absoft.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/numpy/doc/subclassing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/numpy/f2py/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/numpy/f2py/cb_rules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/numpy/f2py/tests/src/array_from_pyobj/wrapmodule.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/numpy/f2py/tests/src/assumed_shape/foo_use.f90" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/numpy/f2py/tests/src/regression/inout.f90" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/numpy/fft/tests/test_pocketfft.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/numpy/lib/twodim_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/numpy/lib/type_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/numpy/polynomial/hermite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/numpy/random/_bit_generator.cp38-win32.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/numpy/testing/_private/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/numpy/testing/_private/nosetester.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/numpy/testing/tests/test_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas-1.0.3.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/_config/dates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/_libs/parsers.cp38-win32.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/_libs/tslibs/c_timestamp.cp38-win32.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/_libs/tslibs/conversion.cp38-win32.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/_libs/window/aggregations.cp38-win32.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/core/arrays/boolean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/core/arrays/datetimes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/core/arrays/interval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/core/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/core/internals/construction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/core/missing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/io/clipboard/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/io/sas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/io/sas/sasreader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/arithmetic/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/arrays/categorical/test_warnings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/config/test_localization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/extension/decimal/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/extension/test_datetime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/frame/methods/test_to_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/frame/test_arithmetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/frame/test_validate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/groupby/aggregate/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/groupby/test_filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/indexes/categorical/test_constructors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/indexes/datetimes/test_date_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/indexes/ranges/test_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/indexing/test_loc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/io/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/io/parser/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/io/test_parquet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/plotting/test_frame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/resample/test_period_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/reshape/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/reshape/merge/test_merge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/scalar/period/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/scalar/timedelta/test_arithmetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/series/indexing/test_datetime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/series/methods/test_describe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/series/methods/test_diff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/series/methods/test_isin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/series/test_dtypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/series/test_period.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/test_errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/tseries/frequencies/test_inference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/tslibs/test_conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/util/test_assert_index_equal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pandas/tests/window/test_base_indexer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/EGG-INFO/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/commands/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/models/link.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/encoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/utils/outdated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_internal/vcs/git.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/certifi/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/cli/chardetect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/euckrprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/euctwprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/jisfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/chardet/mbcssm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/colorama/win32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/html5lib/treewalkers/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pkg_resources/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/pkg_resources/py31compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/retrying.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/urllib3/util/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip-20.0.2.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip/_internal/cli/base_command.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip/_internal/index/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip/_internal/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip/_internal/network/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip/_internal/req/req_uninstall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip/_internal/utils/appdirs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip/_internal/utils/ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip/_internal/vcs/subversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip/_vendor/cachecontrol/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip/_vendor/cachecontrol/caches/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip/_vendor/chardet/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip/_vendor/distlib/_backport/misc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip/_vendor/idna/idnadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip/_vendor/packaging/__about__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip/_vendor/packaging/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip/_vendor/requests/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/python_dateutil-2.8.1.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz-2019.3.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/reference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Africa/Bujumbura" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Africa/Casablanca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/America/Argentina/Salta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/America/Belem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/America/Cuiaba" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/America/Nome" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Asia/Anadyr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Asia/Brunei" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Asia/Omsk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Asia/Oral" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Asia/Pontianak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Asia/Sakhalin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Asia/Samarkand" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Asia/Tokyo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Asia/Yerevan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Atlantic/Jan_Mayen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Atlantic/Reykjavik" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Australia/Canberra" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Australia/Eucla" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Australia/Lindeman" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Etc/GMT0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Etc/UTC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Europe/Ulyanovsk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Iceland" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Japan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Mexico/BajaSur" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Pacific/Fakaofo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Pacific/Galapagos" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/Pacific/Truk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/pytz/zoneinfo/US/Arizona" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/selenium/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/selenium/webdriver/firefox/webdriver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/selenium/webdriver/remote/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/tzlocal-2.0.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/urllib3/packages/backports/makefile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/zope.interface-5.1.0-py3.8.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/zope.interface-5.1.0-py3.8.egg-info/installed-files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/zope/interface/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/zope/interface/common/idatetime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/zope/interface/common/tests/basemapping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/zope/interface/tests/dummy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Lib/site-packages/zope/interface/tests/test_verify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/Scripts/pip3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/scraper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraper-python/venv/url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/SpringRedditCloneApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/config/SwaggerConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/controller/CommentsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/controller/PostController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/controller/SubredditController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/controller/VoteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/dto/AuthenticationResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/dto/CommentsDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/dto/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/dto/LogoutRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/dto/PostRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/dto/PostResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/dto/RefreshTokenRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/dto/RegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/dto/SubredditDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/dto/VoteDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/exceptions/PostNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/exceptions/SpringRedditException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/exceptions/SubredditNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/mapper/CommentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/mapper/PostMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/mapper/SubredditMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/model/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/model/NotificationEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/model/RefreshToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/model/Subreddit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/model/VerificationToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/model/Vote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/model/VoteType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/repository/CommentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/repository/PostRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/repository/RefreshTokenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/repository/SubredditRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/repository/VerificationTokenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/repository/VoteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/security/JwtAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/security/JwtProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/service/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/service/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/service/MailContentBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/service/MailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/service/PostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/service/RefreshTokenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/service/SubredditService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/service/UserDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/service/VoteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/resources/images/create-post.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/resources/images/create-subreddit.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/resources/images/reddit-screenshot-updated.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/resources/images/spring-reddit-view-post.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/resources/images/user-profile.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/resources/springblog.jks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/main/resources/templates/mailTemplate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-reddit-clone-master/src/test/java/com/programming/techie/springredditclone/SpringRedditCloneApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sudoku-solver/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sudoku-solver/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sudoku-solver/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sudoku-solver/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sudoku-solver/puzzles/s01a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sudoku-solver/puzzles/s02c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sudoku-solver/puzzles/s14c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sudoku-solver/puzzles/s16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sudoku-solver/src/Sudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sudoku-solver/sudoku-solver.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/css/noscript.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/css/noscript.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/js/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/js/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/base/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/base/_page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/base/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/base/_reset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/base/_typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/components/_actions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/components/_actions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/components/_box.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/components/_box.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/components/_button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/components/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/components/_form.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/components/_icon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/components/_icon.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/components/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/components/_icons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/components/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/components/_image.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/components/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/components/_list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/components/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/components/_pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/components/_row.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/components/_row.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/components/_section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/components/_section.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/components/_table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/components/_table.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/layout/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/layout/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/layout/_intro.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/layout/_intro.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/layout/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/layout/_main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/layout/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/layout/_nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/layout/_navPanel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/layout/_navPanel.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/layout/_wrapper.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/layout/_wrapper.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/libs/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/libs/_breakpoints.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/libs/_fixed-grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/libs/_fixed-grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/libs/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/libs/_functions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/libs/_html-grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/libs/_html-grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/libs/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/libs/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/libs/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/libs/_vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/libs/_vendor.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/libs/_vendor.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/sass/noscript.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/sass/noscript.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/webfonts/fa-brands-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/webfonts/fa-regular-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/assets/webfonts/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/elements.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/generic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/images/COVID-19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/images/free-to-use-sounds-1xT5Yz2Am0M-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/images/matthew-lejune-vjmNWcs-_54-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/.idea/SQLite.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/sqlite_demo.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1coy7KEiBQoMq36TqWMdbg33vm7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\diego\development\SentimentAnalysis" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SentimentAnalysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="352a387c-767f-4452-8e9c-91d62fb015b6" name="Default Changelist" comment="" />
+      <created>1591209071314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591209071314</updated>
+      <workItem from="1591209084875" duration="10190000" />
+      <workItem from="1591220603923" duration="11360000" />
+      <workItem from="1591281378713" duration="2938000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1643" y="451" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591235824832">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1643" y="451" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1591235824832" />
+    <state x="1700" y="459" key="FileChooserDialogImpl" timestamp="1591281209297">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1700" y="459" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1591281209297" />
+    <state width="1248" height="394" key="GridCell.Tab.0.bottom" timestamp="1591281335508">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1248" height="394" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1591281335508" />
+    <state width="1248" height="394" key="GridCell.Tab.0.center" timestamp="1591281335508">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1248" height="394" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1591281335508" />
+    <state width="1248" height="394" key="GridCell.Tab.0.left" timestamp="1591281335508">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1248" height="394" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1591281335508" />
+    <state width="1248" height="394" key="GridCell.Tab.0.right" timestamp="1591281335508">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1248" height="394" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1591281335508" />
+    <state width="1235" height="304" key="GridCell.Tab.1.bottom" timestamp="1591281176634">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="304" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1591281176634" />
+    <state width="1235" height="304" key="GridCell.Tab.1.center" timestamp="1591281176634">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="304" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1591281176634" />
+    <state width="1235" height="304" key="GridCell.Tab.1.left" timestamp="1591281176634">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="304" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1591281176634" />
+    <state width="1235" height="304" key="GridCell.Tab.1.right" timestamp="1591281176634">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="304" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1591281176634" />
+    <state x="1421" y="346" key="SettingsEditor" timestamp="1591281432923">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1421" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1591281432923" />
+    <state width="646" height="703" key="XDebugger.FullValuePopup" timestamp="1591236882845">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="646" height="703" key="XDebugger.FullValuePopup/0.0.2560.1400@0.0.2560.1400" timestamp="1591236882845" />
+    <state x="1655" y="347" key="refactoring.ChangeSignatureDialog" timestamp="1591228996169">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1655" y="347" key="refactoring.ChangeSignatureDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1591228996169" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SentimentAnalysis$main.coverage" NAME="main Coverage Results" MODIFIED="1591280042869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
