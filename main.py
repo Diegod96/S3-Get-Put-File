@@ -26,7 +26,7 @@ def get_data():
     return comments
 
 
-def convert_data(comments):
+def convert_and_put(comments):
     """
     Convert list of strings to one text blob for easier sentiment analysis
     Format text blob of newline characters
@@ -35,27 +35,18 @@ def convert_data(comments):
     print("Creating text blob...")
     text_blob = "".join(str(comment) for comment in comments)
     text_blob = text_blob.replace("\n", "")
-    # result = re.sub(r'[^a-zA-Z]', "", text_blob)
     print("Text blob created!")
 
-    print("Creating text file...")
-    with open('blob.txt', 'w', encoding='utf-8') as f_out:
-        f_out.write(text_blob)
-    print("Text file created!")
+    print("Attempting to send file to S3 bucket...")
+    s3 = boto3.resource("s3")
+    bucket_name = "lambda-comprehend-sent-diego"
+    object = s3.Object(bucket_name, "blob.txt")
+    object.put(Body=text_blob)
+    print("File sent to S3 bucket!")
 
-
-def put_in_bucket():
-    """
-    Put the blob.txt file in my S3 bucket
-    """
-    data = open('blob.txt', 'rb')
-    s3 = boto3.resource('s3')
-    s3.Bucket('lambda-comprehend-sent-diego').put_object(Key='blob.txt', Body=data)
-    print("blob.txt put into bucket!")
 
 
 
 def lambda_handler(x, y):
     comments = get_data()
-    convert_data(comments)
-    put_in_bucket()
+    convert_and_put(comments)
