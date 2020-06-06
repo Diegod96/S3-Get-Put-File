@@ -40,13 +40,13 @@ def convert_and_put(comments):
     print("Attempting to send file to S3 bucket...")
     s3 = boto3.resource("s3")
     bucket_name = "lambda-comprehend-sent-diego"
-    object = s3.Object(bucket_name, "blob.txt")
+    key = "blob/blob.txt"
+    object = s3.Object(bucket_name, key)
     object.put(Body=text_blob)
     print("File sent to S3 bucket!")
 
 
 
-
-def lambda_handler(x, y):
+if __name__ == '__main__':
     comments = get_data()
     convert_and_put(comments)
